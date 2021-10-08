@@ -2,7 +2,7 @@
 
 GIP stands for Genix Improvement Proposal. Similar to Bitcoin's [BIPs](https://github.com/bitcoin/bips/), a GIP is a design document providing information to the Genix community, or describing a new feature for Genix or its processes or environment. The GIP should provide a concise technical specification of the feature and a rationale for the feature.
 
-Because Genix is forked from the Bitcoin codebase, many of the BIPs can be applied to Genix as well (a list of the BIPs updated to include Genix-specific details can be found [here](https://github.com/Genixevo/bips)). The purpose of the GIPs is not to duplicate those which exist as BIPs, but to introduce protocol upgrades or feature specifications which are unique to Genix.
+Because Genix is forked from the Bitcoin codebase, many of the BIPs can be applied to Genix as well (a list of the BIPs updated to include Genix-specific details can be found [here](https://github.com/genix-project/gips)). The purpose of the GIPs is not to duplicate those which exist as BIPs, but to introduce protocol upgrades or feature specifications which are unique to Genix.
 
 ## Contributions
 
